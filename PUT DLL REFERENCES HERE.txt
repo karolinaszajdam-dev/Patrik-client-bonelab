@@ -1,0 +1,3 @@
+Required compile references must be copied here from a compatible BONELAB/LemonLoader setup.
+Do not download random DLLs from unofficial DLL sites.
+The template cannot compile until the MelonLoader reference and other required build references are configured.
